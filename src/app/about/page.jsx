@@ -12,7 +12,7 @@ export default function About() {
                     <div className="w-48 h-48 rounded-2xl overflow-hidden shadow-lg">
                         <Image
                             src={image.src}
-                            alt="Jems Manubhi Patel"
+                            alt="Jems Patel"
                             width={200}
                             height={200}
                             className="object-cover w-full h-full"
