@@ -13,7 +13,7 @@ export default function Header() {
             <header className="shadow-md backdrop-blur-sm sticky top-0 w-full z-50">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16">
                     <div className="text-xl font-bold">
-                        <Link href="/">Jems M Patel</Link>
+                        <Link href="/">Jems Patel</Link>
                     </div>
                     {/* Desktop Navigation */}
                     <nav className="hidden md:flex space-x-6">
