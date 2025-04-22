@@ -22,7 +22,7 @@ export default function About() {
 
                 {/* Content */}
                 <div className="md:w-2/3 w-full text-center md:text-left">
-                    <h1 className="text-4xl font-bold mb-4">Jems Manubhi Patel</h1>
+                    <h1 className="text-4xl font-bold mb-4">Jems Patel</h1>
                     <p className="text-2xl dark:text-gray-300 text-gray-700 mb-6">Full Stack Web Developer</p>
                     <p className="text-gray-700 dark:text-gray-500 mb-6 leading-relaxed"> Hi, I’m Jems Patel, a passionate and curious Full Stack Developer with experience in both frontend and backend technologies. I love building clean, functional, and user-friendly web applications that solve real problems. I enjoy working across the stack — from designing responsive UIs to managing server-side logic and databases.</p>
                     <p className="text-gray-700 dark:text-gray-500 mb-6 leading-relaxed"> I started my web development journey while exploring different technologies on my own. Over time, I’ve worked with tools like React, Vite, and Tailwind CSS for the frontend, and Flask, Express.js, and Django for the backend. My database work includes both MongoDB and SQLite, and I’ve also used Cloudinary for storing and managing files in the cloud.</p>

@@ -58,14 +58,14 @@ export default function Home() {
                                     src={image.src}
                                     width={200}
                                     height={200}
-                                    alt="Jems Manubhi Patel"
+                                    alt="Jems Patel"
                                     className="object-cover w-full h-full"
                                 />
                             </div>
                         </div>
                         {/* Left Side - Text Content */}
                         <div className="md:w-2/3 w-90 text-center md:text-left">
-                            <h2 className="text-4xl font-bold mb-4">Jems Manubhi Patel</h2>
+                            <h2 className="text-4xl font-bold mb-4">Jems Patel</h2>
                             <p className="text-lg text-gray-600 dark:text-gray-400 mb-5">
                                 👋 Hi, I'm Jems Patel — a passionate Full Stack Developer who loves turning ideas into powerful web applications.
                             </p>
