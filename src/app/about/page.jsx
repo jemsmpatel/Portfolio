@@ -70,7 +70,7 @@ export default function About() {
 
                     {/* Call to Action */}
                     <div className="flex sm:items-center px-2 justify-center items-center md:px-6 gap-4">
-                        <Link href="/resume.pdf" target="_blank">
+                        <Link href="/Jems Patel Resume.pdf" target="_blank">
                             <button className="bg-black sm:ml-0 text-white px-5 py-2 rounded-md hover:bg-gray-800 dark:bg-gray-700 dark:border dark:border-white transition">
                                 Download Resume
                             </button>

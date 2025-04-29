@@ -20,7 +20,7 @@ export default function Header() {
                         <Link href="/about" className="hover:text-blue-600">About</Link>
                         <Link href="/contact" className="hover:text-blue-600">Contact</Link>
                         <Link href="/projects" className="hover:text-blue-600">Projects</Link>
-                        <Link href="/resume.pdf" target='_blank' className="hover:text-blue-600">Resume</Link>
+                        <Link href="/Jems Patel Resume.pdf" target='_blank' className="hover:text-blue-600">Resume</Link>
                     </nav>
                     {/* Mobile Menu Button */}
                     <button
@@ -55,7 +55,7 @@ export default function Header() {
                     <Link href="/about" onClick={() => setMenuOpen(false)} className='p-3 hover:text-lg active:text-lg active:bg-gray-200 dark:active:bg-blue-400 rounded-xl px-4 border'>About</Link>
                     <Link href="/contact" onClick={() => setMenuOpen(false)} className='p-3 hover:text-lg active:text-lg active:bg-gray-200 dark:active:bg-blue-400 rounded-xl px-4 border'>Contact</Link>
                     <Link href="/projects" onClick={() => setMenuOpen(false)} className='p-3 hover:text-lg active:text-lg active:bg-gray-200 dark:active:bg-blue-400 rounded-xl px-4 border'>Projects</Link>
-                    <Link href="/resume.pdf" target='_blank' onClick={() => setMenuOpen(false)} className='p-3 hover:text-lg active:text-lg active:bg-gray-200 dark:active:bg-blue-400 rounded-xl px-4 border'>Resume</Link>
+                    <Link href="/Jems Patel Resume.pdf" target='_blank' onClick={() => setMenuOpen(false)} className='p-3 hover:text-lg active:text-lg active:bg-gray-200 dark:active:bg-blue-400 rounded-xl px-4 border'>Resume</Link>
                 </nav>
             </div>
         </>
