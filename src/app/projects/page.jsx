@@ -68,7 +68,7 @@ export default function Projects() {
                         </div>
                     </div>
                     <div className="rounded-lg border bg-card text-card-foreground shadow-sm overflow-hidden">
-                        <Link href={`https://e-commerce-site-v9ib.onrender.com/`} target="_blank">
+                        <Link href={`https://e-commerce-site-9xzp.onrender.com/`} target="_blank">
                             <div className="relative aspect-video">
                                 <Image alt="E-commerce Platform" loading="lazy" fill
                                     className="object-cover transition-transform hover:scale-105"
